@@ -1,0 +1,2 @@
+# My First Game Engine
+Game engine based on tutorials provided by Let's Make Games on YouTube (https://www.youtube.com/user/creaper). The code here is simply built out of following along with those tutorials. I'm currently in the middle of the tutorial on the entity component system.
